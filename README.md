@@ -1,2 +1,2 @@
 # C07 | Atividade Assíncrona
-## Integração entre MySQL + Python/Java 
+## Integração entre MySQL + Python
